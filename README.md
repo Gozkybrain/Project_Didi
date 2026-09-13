@@ -4,7 +4,7 @@
 
 Didi is voice-first and agent-driven. Today she plays the archivist for a Marvel movie & series archive, and she's built to grow into a dev, data, and sales crew - all local, all orchestrated by her, with you pulling the trigger on anything external.
 
-## Where it lives
+## Where does it live?
 
 There's no rented cloud, no data center in another country. Didi runs on a machine we own, in a building we're in - the app is **live on the internet** at **https://didi.sarcasticgeeks.com**, with the data staying private on our machine.
 
